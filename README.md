@@ -8,7 +8,7 @@
 
 MSc Data Science student with expertise in statistical analysis and machine learning. Transitioning into Generative AI with focus on LLMs, diffusion models, and AI-powered applications.
 
-- 🔭 Currently working on: Building my own generative AI projects
+- 🔭 Currently working on: Building my own ML & generative AI projects
 - 🌱 Currently learning: Transformers, LangChain, Diffusion Models
 - 👯 Looking to collaborate on: Open-source generative AI projects
 - 💬 Ask me about: Python, SQL, or statistics for AI
