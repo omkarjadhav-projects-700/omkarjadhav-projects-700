@@ -29,7 +29,7 @@ MSc Data Science student with expertise in statistical analysis and machine lear
   
 </div>
 
-## 🔥 Generative AI Skills I'm Developing
+## 🔥 Skills I'm Developing
 
 <div align="center">
   
@@ -64,7 +64,7 @@ Developed an SQL query analyzer to detect syntax errors as part of the Campus Co
 
 Conducted investment performance analysis and risk assessment for a mutual fund.
 
-## 🌟 Next Steps in My Generative AI Journey
+## 🌟 Next Steps in AI Journey
 
 - [ ] Complete HuggingFace Transformers course
 - [ ] Build a fine-tuned LLM for Marathi language
