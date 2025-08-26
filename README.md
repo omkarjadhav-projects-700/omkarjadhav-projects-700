@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omkar Jadhav | Aspiring Generative AI Engineer
+# 👋 Hi, I'm Omkar Jadhav | AI Engineer
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtYzNxZ2N1dHl5d2V5b2VjZ3V0cGZ5b3V6dWxqZzZ0eGJ6eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime coding gif">
@@ -8,7 +8,7 @@
 
 MSc Data Science student with expertise in statistical analysis and machine learning. Transitioning into Generative AI with focus on LLMs, diffusion models, and AI-powered applications.
 
-- 🔭 Currently working on: Building my own generative AI projects
+- 🔭 Currently working on: Building my own projects
 - 🌱 Currently learning: Transformers, LangChain, Diffusion Models
 - 👯 Looking to collaborate on: Open-source generative AI projects
 - 💬 Ask me about: Python, SQL, or statistics for AI
