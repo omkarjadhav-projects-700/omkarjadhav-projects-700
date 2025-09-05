@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omkar Jadhav | AI Engineer
+# 👋 Hi, I'm Omkar Jadhav | Aspiring AI Engineer
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtYzNxZ2N1dHl5d2V5b2VjZ3V0cGZ5b3V6dWxqZzZ0eGJ6eGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime coding gif">
