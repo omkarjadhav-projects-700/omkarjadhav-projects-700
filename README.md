@@ -38,31 +38,7 @@ MSc Data Science student with expertise in statistical analysis and machine lear
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  
-</div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarjadhav-projects-700&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarjadhav-projects-700&layout=compact&theme=radical)
-
-</div>
-
-## 🏆 Projects
-
-### 1. SQL Query Checker
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-Developed an SQL query analyzer to detect syntax errors as part of the Campus Connect program by Bluepineapple Company.
-
-### 2. Statistical Analysis of ICICI Prudential Blue-Chip Mutual Fund
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-Conducted investment performance analysis and risk assessment for a mutual fund.
 
 ## 🌟 Next Steps in My Generative AI Journey
 
