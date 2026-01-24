@@ -40,11 +40,7 @@ MSc Data Science student with expertise in statistical analysis and machine lear
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
-## 🌟 Next Steps in My Generative AI Journey
-
--  Complete HuggingFace Transformers course
--  Build a fine-tuned LLM for Marathi language
--  Create an anime-style image generator using diffusion models
+</div>
 
 ## 📫 How to Reach Me
 
